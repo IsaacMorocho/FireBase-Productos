@@ -1,0 +1,23 @@
+.loginPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.loginPage-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px;
+    width: 220px;
+}
